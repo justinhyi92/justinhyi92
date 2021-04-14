@@ -13,7 +13,7 @@
 
 - 💞️ The top preferences for my compatible work environment are a full-time position with benefits within the Gaming industry, growth opportunities, and is within 30 miles from my geographical location (if possible). 
 
-- 📫 How to reach me via LinkedIn [www.linkedin.com/in/justinhyi92] or GitHub
+- 📫 How to reach me via LinkedIn [www.linkedin.com/in/justinhyi92] or GitHub [https://github.com/justinhyi92]
 
 <!---
 justinhyi92/justinhyi92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
